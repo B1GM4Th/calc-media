@@ -1,0 +1,104 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-color: #602a77;
+  background-size: 80vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.calculator {
+  position: absolute;
+   top: 500px;
+  left: 1000px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#notaPrimeiroSemestre {
+  position: absolute;
+  top: 250px;
+  left: 500px;
+  width: 130px;
+}
+
+#notaSegundoSemestre {
+  position: absolute;
+  top: 300px;
+  left: 500px;
+  width: 130px;
+}
+
+#notaTerceiroSemestre {
+  position: absolute;
+  top: 350px;
+  left: 500px;
+  width: 130px;
+}
+
+#notaQuartoSemestre {
+  position: absolute;
+  top: 400px;
+  left: 500px;
+  width: 130px;
+}
+
+#botaoCalculaMedia {
+  position: absolute;
+  top: 500px;
+  left: 500px;
+  width: 150px;
+}
+
+#retornoJavaScript {
+  position: absolute;
+  color: white;
+  top: 250px;
+  left: 800px;
+}
+
+#aprovado {
+  position: absolute;
+  color: white;
+  top: 290px;
+  left: 800px;
+}
+
+#reprovado {
+  position: absolute;
+  color: white;
+  top: 330px;
+  left: 800px;
+}
+
+#parabens {
+  position: absolute;
+  color: white;
+  top: 330px;
+  left: 800px;
+}
